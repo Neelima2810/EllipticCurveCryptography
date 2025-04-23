@@ -1,0 +1,2 @@
+This project focuses on enhancing cloud data security using Elliptic Curve Cryptography (ECC). It provides a secure platform where users can upload, encrypt, and manage their data in the cloud. Built with Django, the application integrates strong cryptographic libraries like PyCryptodome, OpenSSL, and Django Cryptography to ensure robust data protection. It uses SQLite3 as the backend database and offers a user-friendly interface with HTML, CSS, and JavaScript.
+
